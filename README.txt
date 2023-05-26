@@ -1,0 +1,1 @@
+A program that returns a list of elements of an iterable object (tuple, string, list, dictionary) whose index is a prime number
